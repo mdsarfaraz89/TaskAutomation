@@ -1,0 +1,3 @@
+Contact us at support@example.com or sales@example.com.
+John: john.doe99@mail.co.in, not-an-email@, another@@bad
+Duplicate: support@example.com
